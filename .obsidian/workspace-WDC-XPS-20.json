@@ -1,0 +1,294 @@
+{
+  "main": {
+    "id": "638e28578b004155",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e02d48323ad54e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb5c8eb0d6a85e87",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/1 Explore Software Ecosystem 2024-08-12 11.15.05.md"
+              }
+            }
+          },
+          {
+            "id": "0dd97d15445c314a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/1 Explore Software Ecosystem 2024-08-12 11.15.05.md"
+              }
+            }
+          },
+          {
+            "id": "f41da811f51c11ba",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/1 Explore Software Ecosystem 2024-08-12 11.15.05.md"
+              }
+            }
+          },
+          {
+            "id": "b693d2f29d46c47d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/1 Explore Software Ecosystem 2024-08-12 11.15.05.md"
+              }
+            }
+          },
+          {
+            "id": "50cc98aca211463c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Excalidraw/Scripts/Downloaded/Palette loader.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37800445763b49dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Idea 1 Tourist Map Helper.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff85fb6012491dac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Idea 2 Mobility app when no public transport.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "660c81db30685441",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Idea 2 Mobility app when no public transport.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "72a9e0b292504bcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LETL Demo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa05e63fcc410705",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LETL Demo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "211c55d890e2d1e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a674c000d70dbc23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fe953a87d021667",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e9210b7e740e1a7b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cb0e48340a6e76ba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 369.49999618530273
+  },
+  "right": {
+    "id": "29a1df003815c96d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce8782d52b441ccb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc4c2a9ed21631b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "LETL Demo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "426f3720ff1dd3c7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "LETL Demo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b57aeeaaf5ac7220",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4a4be6434e5c72ce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "LETL Demo.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "fa05e63fcc410705",
+  "lastOpenFiles": [
+    "2024-08-12.md",
+    "Typical roles within a software development team.md",
+    "LETL Demo.md",
+    "Idea 2 Mobility app when no public transport.md",
+    "Idea 1 Tourist Map Helper.md",
+    "Idea 3 CeramiView.md",
+    "Excalidraw/1 Explore Software Ecosystem 2024-08-12 11.15.05-DESKTOP-GJPV3QN.md",
+    "Excalidraw/1 Explore Software Ecosystem 2024-08-12 11.15.05.md",
+    "Excalidraw/Scripts/Downloaded/Split Ellipse.svg",
+    "Excalidraw/Scripts/Downloaded/Split Ellipse.md",
+    "Excalidraw/Scripts/Downloaded/Slideshow.svg",
+    "Excalidraw/Scripts/Downloaded/Slideshow.md",
+    "Excalidraw/Scripts/Downloaded/Palette loader.svg",
+    "Excalidraw/Scripts/Downloaded/Palette loader.md",
+    "เป้าหมาย (Goal).md",
+    "Pasted Image 20240812124706_215.png",
+    "Software Ecosystems for Developers.md",
+    "Images/cropped_Pasted Image 20240812115056_369.md",
+    "Images/ซอฟต์แวร์.png",
+    "Images/Pasted Image 20240812115527_413.png",
+    "Untitled.canvas",
+    "1 Find My Place in the Software Ecosystems.canvas",
+    "Images",
+    "Pasted Image 20240812115312_395.jpg",
+    "Images/Pasted Image 20240812115056_369.jpg",
+    "Pasted Image 20240812115041_360.png",
+    "Images/CourseGoal.png",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Fonts/FlamingoThin.ttf",
+    "Fonts",
+    "New folder",
+    "Excalidraw/Drawing 2024-08-12 11.36.39.excalidraw.md",
+    "Excalidraw Libraries/dev_ops.excalidrawlib",
+    "Excalidraw Libraries/it-logos.excalidrawlib",
+    "Excalidraw Libraries/technology-logos.excalidrawlib",
+    "Excalidraw Libraries/architecture-diagram-components.excalidrawlib",
+    "Excalidraw/Drawing 2024-08-12 11.27.27.excalidraw.md",
+    "Excalidraw/Drawing 2024-08-12 11.16.19.excalidraw.md"
+  ]
+}
