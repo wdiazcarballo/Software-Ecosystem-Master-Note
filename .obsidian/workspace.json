@@ -52,9 +52,24 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7fa3772f14b80d5e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 14,
+                  "y": 203,
+                  "zoom": 0
+                }
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -120,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DTI 241 Software Ecosystems for Developers.md",
+                "file": "Example Structure of S3 Buckets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DTI 241 Software Ecosystems for Developers.md",
+                "file": "Example Structure of S3 Buckets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DTI 241 Software Ecosystems for Developers.md"
+                "file": "Example Structure of S3 Buckets.md"
               }
             }
           }
@@ -173,23 +188,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:เปิด quick switcher": false,
-      "graph:เปิดมุมมองกราฟ": false,
-      "daily-notes:เปิดโน้ตของวันนี้": false,
-      "templates:แทรกเทมเพลต": false,
-      "command-palette:เปิดกระดานคำสั่ง": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "canvas:Create new canvas": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fa654244a154e8bd",
+  "active": "7fa3772f14b80d5e",
   "lastOpenFiles": [
-    "03 - Software Development Life Cycle.md",
+    "Excalidraw/1 Explore Software Ecosystem 2024-08-12 11.15.05.md",
+    "Untitled.canvas",
+    "Example Structure of S3 Buckets.md",
     "DTI 241 Software Ecosystems for Developers.md",
+    "03 - Software Development Life Cycle.md",
     "SDLC.md",
     "Images/Pasted image 20240826171811.png",
-    "Excalidraw/1 Explore Software Ecosystem 2024-08-12 11.15.05.md",
     "Untitled 1.md",
     "เป้าหมาย (Goal).md",
     "Typical roles within a software development team.md",
@@ -212,7 +229,6 @@
     "Images/cropped_Pasted Image 20240812115056_369.md",
     "Images/ซอฟต์แวร์.png",
     "Images/Pasted Image 20240812115527_413.png",
-    "Untitled.canvas",
     "1 Find My Place in the Software Ecosystems.canvas",
     "Images",
     "Pasted Image 20240812115312_395.jpg",
